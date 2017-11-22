@@ -1,6 +1,6 @@
 # Angular Logos
 
-This repo is dedicated to collect all the different kinds of Anguar badges / logos. This can be a logo from a conference, a NPM package, ...
+This repo is dedicated to collect all the different kinds of Angular badges / logos. This can be a logo from a conference, a NPM package, ...
 
 ### Logo requirements
 - only .svg logo's
