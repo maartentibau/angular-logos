@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 100 110" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <title>ng-lightning shield</title>
+  <g stroke="none">
+    <path d="M50,1 L0,20 L10,90 L50,109 L90,90 L100,20 Z" fill="#ff8d0e"></path>
+    <path d="M50,1 L50,109 L90,90 L100,20 Z" fill="#ff780c"></path>
+  </g>
+  <g stroke="none" transform="translate(0, -1)">
+    <path d="M70,12 L35,60 L50,60 L30,98 L65,50 L50,50 Z" fill="#d86000" transform="translate(1, 1)"></path>
+    <path d="M70,12 L35,60 L50,60 L30,98 L65,50 L50,50 Z" fill="#fff" transform="translate(-1, -1)"></path>
+  </g>
+</svg>
