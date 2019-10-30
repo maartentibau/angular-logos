@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 186 200">
+    <mask id="star-mask">
+        <rect fill="#FFF" height="60" x="63" y="30" width="60"></rect>
+        <path d="M 83 55 l 8 2 l 2 8 l 2 -8 l 8 -2 l -8 -2 l -2 -8 l -2 8 z" fill="#000" stroke="none"></path>
+    </mask>
+
+    <mask id="stick-mask">
+        <rect fill="#FFF" height="50" x="78" y="85" width="30"></rect>
+        <path d="M 78 95 l 30 30" fill="none" stroke="#000" stroke-width="5"></path>
+    </mask>
+
+    <polygon points="93,0 0,33.2 14,156.3 93,200 172,156.3 186,33.2" fill="#DD0031"></polygon>
+    <polygon points="93,0 93,200 172,156.3 186,33.2" fill="#C3002F"></polygon>
+
+    <path d="M 48 70 c 20 20 70 20 90 0 v 80 c -20 20 -70 20 -90 0 z" fill="#FFF" stroke="#FFF" stroke-linejoin="round" stroke-width="5"></path>
+    <circle cx="68" cy="70" fill="#FFF" r="30"></circle>
+    <circle cx="118" cy="70" fill="#FFF" r="30"></circle>
+
+    <rect fill="#DD0031" height="30" width="10" x="83" y="40"></rect>
+    <rect fill="#C3002F" height="30" width="10" x="93" y="40"></rect>
+    <circle cx="93" cy="60" fill="#FFF" mask="url(#star-mask)" r="30"></circle>
+
+    <g transform="translate(59.5, 51.5)">
+        <path d="M 0 10 l 8 2 l 2 8 l 2 -8 l 8 -2 l -8 -2 l -2 -8 l -2 8 z" fill="#DD0031" stroke="none" transform="scale(1.1)"></path>
+    </g>
+    <g transform="translate(106.5, 53.5)">
+        <path d="M 0 10 l 8 2 l 2 8 l 2 -8 l 8 -2 l -8 -2 l -2 -8 l -2 8 z" fill="#C3002F" stroke="none" transform="scale(0.9)"></path>
+    </g>
+
+    <rect fill="#DD0031" height="40" width="10" x="83" y="90"></rect>
+    <rect fill="#C3002F" height="40" width="10" x="93" y="90"></rect>
+    <rect fill="#FFF" height="50" mask="url(#stick-mask)" width="30" x="78" y="85"></rect>
+
+    <path d="M 58 75 l 30 30" fill="none" stroke="#DD0031" stroke-linecap="round" stroke-width="5"></path>
+    <path d="M 98 115 l 30 30" fill="none" stroke="#C3002F" stroke-linecap="round" stroke-width="5"></path> --> -->
+</svg>
