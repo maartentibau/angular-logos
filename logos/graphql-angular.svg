@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 184 200" style="enable-background:new 0 0 184 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#E23237;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#BA2490;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E535AB;}
+	.st3{fill:#FFFFFF;}
+</style>
+<path id="Fill-1" class="st0" d="M91.2,12L91.2,12L8.3,41.4l12.6,109.2L91,189.5l71.1-39.3L176,40.9L91.2,12"/>
+<path id="Fill-2" class="st1" d="M175.8,40.9L91,12v177.4l71.1-39.3L175.8,40.9L175.8,40.9z"/>
+<path id="Fill-3" class="st2" d="M8.2,41.4l12.6,109.2L91,189.5V12L8.2,41.4L8.2,41.4z"/>
+<g>
+	<g>
+		<g>
+			<rect x="22.2" y="82.3" transform="matrix(0.5 -0.866 0.866 0.5 -38.3088 103.3247)" class="st3" width="96.2" height="5"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<rect x="43.1" y="118.6" class="st3" width="96.2" height="5"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<rect x="67.8" y="105.3" transform="matrix(0.5 -0.866 0.866 0.5 -80.1138 127.4736)" class="st3" width="5" height="55.6"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<rect x="109.6" y="32.9" transform="matrix(0.5 -0.866 0.866 0.5 3.4802 127.4709)" class="st3" width="5" height="55.6"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<rect x="42.6" y="58.2" transform="matrix(0.866 -0.5 0.5 0.866 -20.9259 43.3105)" class="st3" width="55.6" height="5"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<rect x="109.7" y="36.7" transform="matrix(0.866 -0.5 0.5 0.866 -27.3925 67.4527)" class="st3" width="5" height="96.2"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<rect x="46.9" y="69.1" class="st3" width="5" height="55.6"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<rect x="130.6" y="69.1" class="st3" width="5" height="55.6"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<rect x="88" y="130.9" transform="matrix(0.866 -0.5 0.5 0.866 -51.5229 73.9001)" class="st3" width="48.3" height="4.4"/>
+		</g>
+	</g>
+	<path class="st3" d="M142.1,126.3c-2.9,5-9.3,6.7-14.3,3.8c-5-2.9-6.7-9.3-3.8-14.3s9.3-6.7,14.3-3.8
+		C143.3,114.9,145.1,121.3,142.1,126.3"/>
+	<path class="st3" d="M58.5,78c-2.9,5-9.3,6.7-14.3,3.8c-5-2.9-6.7-9.3-3.8-14.3s9.3-6.7,14.3-3.8C59.7,66.6,61.4,73,58.5,78"/>
+	<path class="st3" d="M40.3,126.3c-2.9-5-1.2-11.4,3.8-14.3c5-2.9,11.4-1.2,14.3,3.8c2.9,5,1.2,11.4-3.8,14.3
+		C49.6,133,43.2,131.3,40.3,126.3"/>
+	<path class="st3" d="M124,78c-2.9-5-1.2-11.4,3.8-14.3c5-2.9,11.4-1.2,14.3,3.8c2.9,5,1.2,11.4-3.8,14.3
+		C133.3,84.7,126.9,83,124,78"/>
+	<path class="st3" d="M91.2,155.7c-5.8,0-10.5-4.7-10.5-10.5c0-5.8,4.7-10.5,10.5-10.5c5.8,0,10.5,4.7,10.5,10.5
+		C101.7,151,97,155.7,91.2,155.7"/>
+	<path class="st3" d="M91.2,59.1c-5.8,0-10.5-4.7-10.5-10.5s4.7-10.5,10.5-10.5c5.8,0,10.5,4.7,10.5,10.5S97,59.1,91.2,59.1"/>
+</g>
+</svg>
