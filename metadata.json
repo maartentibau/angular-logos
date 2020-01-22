@@ -1,0 +1,24 @@
+{
+  "$schema": "https://angularlogos.com/assets/metadata-schema.json",
+  "logos": {
+    "angular.svg": {
+      "name": "Angular",
+      "website": "https://angular.io",
+      "license": "CC BY 4.0",
+      "creator": "Google",
+      "description": "Angular logo"
+    },
+    "ng-heidelberg.svg": {
+      "name": "Angular Heidelberg",
+      "website": "https://angular-heidelberg.de",
+      "license": "MIT",
+      "creator": "Johannes Hoppe",
+      "description": "Logo of the ngHeidelberg meetup"
+    },
+    "angular-animations.svg": {
+      "name": "Animations Brand Logo",
+      "license": "CC BY 4.0",
+      "creator": "Google"
+    }
+  }
+}
