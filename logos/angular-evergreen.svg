@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="186px" height="200px" viewBox="0 0 186 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>ng-evergreen-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-15.2%" y="-8.6%" width="130.4%" height="117.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" fill="#4B7641" fill-rule="nonzero" points="92.8 0 92.8 0 92.8 0 0 33.3 14 156.1 92.8 200 92.8 200 92.8 200 171.7 156.1 186 33.3"></polygon>
+        <polygon id="Path" fill="#336739" fill-rule="nonzero" points="92.8 0 92.8 22.2 92.8 22.2 92.8 123.2 92.8 123.2 92.8 200 92.8 200 171.7 156.1 186 33.3"></polygon>
+        <g id="pine" filter="url(#filter-1)" transform="translate(53.000000, 28.000000)" fill="#FFFFFF" fill-opacity="0.8" fill-rule="nonzero">
+            <path d="M26.3923957,134.887012 C26.3923957,137.158997 28.2320891,139 30.5024576,139 L48.3483323,139 C50.617005,139 52.4575464,137.158997 52.4575464,134.887012 L52.4575464,115.074591 L26.3923957,115.074591 L26.3923957,134.887012 Z" id="Path"></path>
+            <path d="M62.5266891,81.1152894 L74.7220766,81.1152894 C76.2565677,81.1152894 77.6613474,80.2609619 78.3692479,78.8992982 C79.0763005,77.5359375 78.9660886,75.893457 78.0843922,74.6378418 L59.5857229,48.3089479 L65.0573273,48.3089479 C66.5587547,48.3089479 67.9406444,47.4894043 68.6621095,46.1710084 C69.3827266,44.8534606 69.3276207,43.2457643 68.5179859,41.9799682 L42.8860533,1.89614874 C42.130677,0.714343153 40.8259358,0 39.4253949,0 C38.0231584,0 36.7184174,0.714343153 35.9630409,1.89614874 L10.3311082,41.9799682 C9.5214737,43.2457643 9.46636773,44.8526123 10.1886804,46.1710084 C10.9092977,47.4894043 12.2911872,48.3089479 13.7926146,48.3089479 L19.2642192,48.3089479 L0.766397665,74.6378418 C-0.116146495,75.893457 -0.226358657,77.5359375 0.481541896,78.8992982 C1.18774677,80.2609619 2.59422218,81.1152894 4.12786524,81.1152894 L16.3241008,81.1152894 L1.35221717,106.849463 L77.4985727,106.849463 L62.5266891,81.1152894 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>
