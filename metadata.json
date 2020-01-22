@@ -1,24 +1,109 @@
 {
   "$schema": "https://angularlogos.com/assets/metadata-schema.json",
   "logos": {
-    "angular.svg": {
-      "name": "Angular",
-      "website": "https://angular.io",
-      "license": "CC BY 4.0",
+    "angular-animations.svg": {
       "creator": "Google",
-      "description": "Angular logo"
+      "license": "CC BY 4.0",
+      "name": "Angular Animations"
+    },
+    "angular-augury.svg": {
+      "creator": "Google",
+      "license": "CC BY 4.0",
+      "name": "Angular Augury"
+    },
+    "angular-cdk.svg": {
+      "creator": "Google",
+      "license": "CC BY 4.0",
+      "name": "Angular CDK"
+    },
+    "angular-cli.svg": {
+      "creator": "Google",
+      "license": "CC BY 4.0",
+      "name": "Angular CLI"
+    },
+    "angular-compiler.svg": {
+      "creator": "Google",
+      "license": "CC BY 4.0",
+      "name": "Angular Compiler"
+    },
+    "angular-components.svg": {
+      "creator": "Google",
+      "license": "CC BY 4.0",
+      "name": "Angular Components"
+    },
+    "angular-dart.svg": {
+      "creator": "Google",
+      "license": "CC BY 4.0",
+      "name": "Angular Dart"
+    },
+    "angular-forms.svg": {
+      "creator": "Google",
+      "license": "CC BY 4.0",
+      "name": "Angular Forms"
+    },
+    "angular-http.svg": {
+      "creator": "Google",
+      "license": "CC BY 4.0",
+      "name": "Angular HTTP"
+    },
+    "angular-i18n.svg": {
+      "creator": "Google",
+      "license": "CC BY 4.0",
+      "name": "Angular i18n"
+    },
+    "angular-karma.svg": {
+      "creator": "Google",
+      "license": "CC BY 4.0",
+      "name": "Angular Karma"
+    },
+    "angular-labs.svg": {
+      "creator": "Google",
+      "license": "CC BY 4.0",
+      "name": "Angular Labs"
+    },
+    "angular-language-services.svg": {
+      "creator": "Google",
+      "license": "CC BY 4.0",
+      "name": "Angular Language Services"
+    },
+    "angular-material.svg": {
+      "creator": "Google",
+      "license": "CC BY 4.0",
+      "name": "Angular Material"
+    },
+    "angular-protractor.svg": {
+      "creator": "Google",
+      "license": "CC BY 4.0",
+      "name": "Angular Protractor"
+    },
+    "angular-pwa.svg": {
+      "creator": "Google",
+      "license": "CC BY 4.0",
+      "name": "Angular PWA"
+    },
+    "angular-router.svg": {
+      "creator": "Google",
+      "license": "CC BY 4.0",
+      "name": "Angular Router"
+    },
+    "angular-universal.svg": {
+      "creator": "Google",
+      "license": "CC BY 4.0",
+      "name": "Angular Universal"
+    },
+    "angular.svg": {
+      "creator": "Google",
+      "description": "Angular logo",
+      "license": "CC BY 4.0",
+      "name": "Angular",
+      "website": "https://angular.io"
     },
     "ng-heidelberg.svg": {
-      "name": "Angular Heidelberg",
-      "website": "https://angular-heidelberg.de",
-      "license": "MIT",
       "creator": "Johannes Hoppe",
-      "description": "Logo of the ngHeidelberg meetup"
-    },
-    "angular-animations.svg": {
-      "name": "Animations Brand Logo",
-      "license": "CC BY 4.0",
-      "creator": "Google"
+      "description": "Logo of the ngHeidelberg meetup",
+      "license": "MIT",
+      "name": "Angular Heidelberg",
+      "website": "https://angular-heidelberg.de"
     }
   }
 }
