@@ -51,6 +51,11 @@
       "license": "CC BY 4.0",
       "name": "Angular i18n"
     },
+    "angular-ivy.svg": {
+      "creator": "Maarten Tibau",
+      "license": "MIT",
+      "name": "Angular Ivy"
+    },
     "angular-karma.svg": {
       "creator": "Google",
       "license": "CC BY 4.0",
