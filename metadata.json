@@ -71,6 +71,13 @@
       "license": "CC BY 4.0",
       "name": "Angular Language Services"
     },
+    "angular-malaga.svg": {
+      "creator": "Estefania Garcia Gallardo",
+      "description": "Angular Malaga: MeetUp group. The logo features the beautiful Cathedral of Málaga",
+      "license": "MIT",
+      "name": "Angular Malaga",
+      "website": "http://angularmalaga.com"
+    },
     "angular-material.svg": {
       "creator": "Google",
       "license": "CC BY 4.0",
