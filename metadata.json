@@ -116,6 +116,12 @@
       "license": "MIT",
       "name": "Angular Heidelberg",
       "website": "https://angular-heidelberg.de"
+    },
+    "ng-panama.svg": {
+      "creator": "Estudio Varsovia",
+      "description": "Logo of the Ng Panama meetup",
+      "license": "MIT",
+      "name": "Ng Panama"
     }
   }
 }
