@@ -122,6 +122,13 @@
       "description": "Logo of the Ng Panama meetup",
       "license": "MIT",
       "name": "Ng Panama"
-    }
+    },
+    "dutch-angular-group": {
+      "creator": "Sander Elias",
+      "description": "Logo of the Dutch Angular Group meetup",
+      "license": "MIT",
+      "name": "Dutch Angular Group"
+    },
+
   }
 }
