@@ -134,6 +134,12 @@
       "description": "Logo of The Moroccan Angular Developer Community",
       "license": "MIT",
       "name": "The Moroccan Angular Developer Community"
+    },
+    "ng-kenya.svg": {
+      "creator": "Derrick Kirwa",
+      "description": "Angular Kenya Community Logo",
+      "license": "MIT",
+      "name": "Angular Kenya"
     }
   }
 }
