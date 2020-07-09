@@ -140,6 +140,13 @@
       "description": "Angular Kenya Community Logo",
       "license": "MIT",
       "name": "Angular Kenya"
+    },
+    "ngx-bulma": {
+      "name": "Team ngx-builders",
+      "creator": "ngx-builders",
+      "description": "ngx-builders team",
+      "license": "MIT",
+      "website": "https://ngx2-bulma.netlify.app/"
     }
   }
 }
