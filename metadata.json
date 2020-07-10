@@ -142,11 +142,11 @@
       "name": "Angular Kenya"
     },
     "ngx-bulma": {
-      "name": "Team ngx-builders",
+      "name": "ngx-bulma",
       "creator": "ngx-builders",
       "description": "ngx-builders team",
       "license": "MIT",
-      "website": "https://ngx2-bulma.netlify.app/"
+      "website": "https://ngx2-bulma.netlify.app"
     }
   }
 }
