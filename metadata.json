@@ -153,6 +153,12 @@
       "description": "Ng Arab Community Logo",
       "license": "MIT",
       "name": "Ng Arab"
+    },
+    "angular-kharkiv.svg": {
+      "name": "Angular Kharkiv",
+      "description": "Angular Kharkiv Community Logo",
+      "license": "MIT",
+      "website": "http://fb.com/angularkharkiv"
     }
   }
 }
