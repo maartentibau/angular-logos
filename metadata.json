@@ -153,6 +153,12 @@
       "description": "Ng Arab Community Logo",
       "license": "MIT",
       "name": "Ng Arab"
+    },
+    "ng-tunisia.svg": {
+      "creator": "Haroun Chebbi & Lamis Chebbi",
+      "description": "Ng Tunisia Community Logo",
+      "license": "MIT",
+      "name": "Ng Tunisia"
     }
   }
 }
