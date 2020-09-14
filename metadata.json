@@ -135,6 +135,31 @@
       "name": "Angular Birmingham UK",
       "license": "MIT",
       "website": "https://www.meetup.com/Angular-Birmingham/"
+    },
+    "ng-morocco.svg": {
+      "creator": "Ouadie Lahdioui",
+      "description": "Logo of The Moroccan Angular Developer Community",
+      "license": "MIT",
+      "name": "The Moroccan Angular Developer Community"
+    },
+    "ng-kenya.svg": {
+      "creator": "Derrick Kirwa",
+      "description": "Angular Kenya Community Logo",
+      "license": "MIT",
+      "name": "Angular Kenya"
+    },
+    "ngx-bulma": {
+      "name": "ngx-bulma",
+      "creator": "ngx-builders",
+      "description": "Logo of ngx-bulma – the Angular Library with Bulma CSS",
+      "license": "MIT",
+      "website": "https://ngx2-bulma.netlify.app"
+    },
+    "ng-arab.svg": {
+      "creator": "Omar Hasan",
+      "description": "Ng Arab Community Logo",
+      "license": "MIT",
+      "name": "Ng Arab"
     }
   }
 }
