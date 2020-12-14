@@ -160,6 +160,13 @@
       "description": "Ng Arab Community Logo",
       "license": "MIT",
       "name": "Ng Arab"
+    },
+    "angular-leipzig-logo.svg": {
+      "creator": "ngLeipzig Team",
+      "description": "Logo of the Angular Leipzig Meetup #ngLeipzig",
+      "license": "MIT",
+      "name": "ngLeipzig",
+      "website": "https://angular-leipzig.de"
     }
   }
 }
