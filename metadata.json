@@ -167,6 +167,12 @@
       "license": "MIT",
       "name": "ngLeipzig",
       "website": "https://angular-leipzig.de"
+    },
+    "angular-belgrade.svg": {
+      "creator": "Marko Stanimirović",
+      "name": "Angular Belgrade",
+      "description": "Logo of the Angular Belgrade group",
+      "license": "MIT"
     }
   }
 }
