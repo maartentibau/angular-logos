@@ -129,6 +129,13 @@
       "license": "MIT",
       "name": "Dutch Angular Group"
     },
+    "angular-birmingham-uk.svg": {
+      "creator": "Helen Williams",
+      "description": "Angular Birmingham UK Meetup. The logo represents City of Birmingham flag colours and motto 'Forward' dating back to 1839",
+      "name": "Angular Birmingham UK",
+      "license": "MIT",
+      "website": "https://www.meetup.com/Angular-Birmingham/"
+    },
     "ng-morocco.svg": {
       "creator": "Ouadie Lahdioui",
       "description": "Logo of The Moroccan Angular Developer Community",
@@ -159,6 +166,19 @@
       "description": "Angular Kharkiv Community Logo",
       "license": "MIT",
       "website": "http://fb.com/angularkharkiv"
+    },
+    "angular-leipzig-logo.svg": {
+      "creator": "ngLeipzig Team",
+      "description": "Logo of the Angular Leipzig Meetup #ngLeipzig",
+      "license": "MIT",
+      "name": "ngLeipzig",
+      "website": "https://angular-leipzig.de"
+    },
+    "angular-belgrade.svg": {
+      "creator": "Marko Stanimirović",
+      "name": "Angular Belgrade",
+      "description": "Logo of the Angular Belgrade group",
+      "license": "MIT"
     }
   }
 }
