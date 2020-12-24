@@ -179,6 +179,13 @@
       "name": "Angular Belgrade",
       "description": "Logo of the Angular Belgrade group",
       "license": "MIT"
+    },
+    "angular-vietnam.svg": {
+      "creator": "Angular Vietnam Team",
+      "name": "Angular Vietnam",
+      "description": "Logo of the Angular Vietnam",
+      "license": "MIT",
+      "website": "https://www.facebook.com/groups/AngularVietnam"
     }
   }
 }
