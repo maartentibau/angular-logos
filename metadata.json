@@ -161,6 +161,12 @@
       "license": "MIT",
       "name": "Ng Arab"
     },
+    "angular-kharkiv.svg": {
+      "name": "Angular Kharkiv",
+      "description": "Angular Kharkiv Community Logo",
+      "license": "MIT",
+      "website": "http://fb.com/angularkharkiv"
+    },
     "angular-leipzig-logo.svg": {
       "creator": "ngLeipzig Team",
       "description": "Logo of the Angular Leipzig Meetup #ngLeipzig",
