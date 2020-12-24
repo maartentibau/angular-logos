@@ -173,6 +173,12 @@
       "name": "Angular Belgrade",
       "description": "Logo of the Angular Belgrade group",
       "license": "MIT"
+    },
+    "angular-thailand.svg": {
+      "creator": "Kamonlojn Phrompang",
+      "name": "Angular Thailand",
+      "description": "Logo of the Angular Developers Thailand community",
+      "license": "MIT"
     }
   }
 }
