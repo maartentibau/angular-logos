@@ -186,6 +186,12 @@
       "description": "Logo of the Angular Vietnam",
       "license": "MIT",
       "website": "https://www.facebook.com/groups/AngularVietnam"
+    },
+    "angular-thailand.svg": {
+      "creator": "Kamonlojn Phrompang",
+      "name": "Angular Thailand",
+      "description": "Logo of the Angular Developers Thailand community",
+      "license": "MIT"
     }
   }
 }
