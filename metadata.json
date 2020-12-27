@@ -161,6 +161,12 @@
       "license": "MIT",
       "name": "Ng Arab"
     },
+    "angular-kharkiv.svg": {
+      "name": "Angular Kharkiv",
+      "description": "Angular Kharkiv Community Logo",
+      "license": "MIT",
+      "website": "http://fb.com/angularkharkiv"
+    },
     "angular-leipzig-logo.svg": {
       "creator": "ngLeipzig Team",
       "description": "Logo of the Angular Leipzig Meetup #ngLeipzig",
@@ -173,6 +179,13 @@
       "name": "Angular Belgrade",
       "description": "Logo of the Angular Belgrade group",
       "license": "MIT"
+    },
+    "angular-vietnam.svg": {
+      "creator": "Angular Vietnam Team",
+      "name": "Angular Vietnam",
+      "description": "Logo of the Angular Vietnam",
+      "license": "MIT",
+      "website": "https://www.facebook.com/groups/AngularVietnam"
     },
     "angular-thailand.svg": {
       "creator": "Kamonlojn Phrompang",
