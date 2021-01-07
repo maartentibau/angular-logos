@@ -192,6 +192,13 @@
       "name": "Angular Thailand",
       "description": "Logo of the Angular Developers Thailand community",
       "license": "MIT"
+    },
+    "narik.svg": {
+      "creator": "https://github.com/NarikMe",
+      "name": "Narik",
+      "description": "Logo of the Angular Developers Thailand community",
+      "license": "MIT",
+      "website": "http://www.narik.me"
     }
   }
 }
