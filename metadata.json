@@ -192,6 +192,13 @@
       "name": "Angular Thailand",
       "description": "Logo of the Angular Developers Thailand community",
       "license": "MIT"
+    },
+    "jscutlery.svg": {
+      "creator": "Edouard Bozon",
+      "name": "JSCutlery",
+      "description": "Logo of the JSCutlery open-source organization",
+      "license": "CC BY 4.0",
+      "website": "https://github.com/jscutlery"
     }
   }
 }
