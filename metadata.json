@@ -199,6 +199,13 @@
       "description": "Logo of the JSCutlery open-source organization",
       "license": "CC BY 4.0",
       "website": "https://github.com/jscutlery"
+    },
+    "ngx-aws-deploy": {
+      "creator": "Jeffrey Bosch",
+      "name": "ngx-aws-deploy",
+      "description": "Logo of the ngx-aws-deploy open-source package",
+      "license": "MIT",
+      "website": "https://github.com/Jefiozie/ngx-aws-deploy"
     }
   }
 }
