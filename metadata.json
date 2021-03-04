@@ -213,6 +213,13 @@
       "description": "Chop and cut Angular logs like a professional lumberjack",
       "license": "MIT",
       "website": "https://github.com/ngworker/lumberjack#readme"
+    },
+    "spectacular.svg": {
+      "creator": "Felipe Zambrano",
+      "name": "Spectacular",
+      "description": "Spectacular Angular integration testing. Test harnesses for Angular applications and libraries.",
+      "license": "MIT",
+      "website": "https://github.com/ngworker/ngworker/tree/main/packages/spectacular#readme"
     }
   }
 }
