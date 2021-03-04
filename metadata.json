@@ -200,12 +200,19 @@
       "license": "CC BY 4.0",
       "website": "https://github.com/jscutlery"
     },
-    "ngx-aws-deploy": {
+    "ngx-aws-deploy.svg": {
       "creator": "Jeffrey Bosch",
       "name": "ngx-aws-deploy",
       "description": "Logo of the ngx-aws-deploy open-source package",
       "license": "MIT",
       "website": "https://github.com/Jefiozie/ngx-aws-deploy"
+    },
+    "lumberjack.svg": {
+      "creator": "Felipe Zambrano",
+      "name": "Lumberjack",
+      "description": "Chop and cut Angular logs like a professional lumberjack",
+      "license": "MIT",
+      "website": "https://github.com/ngworker/lumberjack#readme"
     }
   }
 }
