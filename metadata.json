@@ -1,6 +1,13 @@
 {
   "$schema": "https://angularlogos.com/assets/metadata-schema.json",
   "logos": {
+    "angular-after-dark.svg": {
+      "creator": "Lars Gyrup Brink Nielsen",
+      "name": "Angular After Dark",
+      "description": "Angular After Dark is a show about a grumpy old Angular developer up too late.",
+      "license": "MIT",
+      "website": "https://www.youtube.com/playlist?list=PLyY4r1b00A5DeSkFHJXu5OJc-5rVk7Uvk"
+    },
     "angular-animations.svg": {
       "creator": "Google",
       "license": "CC BY 4.0",
