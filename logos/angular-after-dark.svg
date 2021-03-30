@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	viewBox="0 0 250 250" style="enable-background:new 0 0 250 250;" xml:space="preserve">
+	viewBox="0 0 186 200" style="enable-background:new 0 0 186 200;" xml:space="preserve">
 	<style type="text/css">
 		.shield__left {
 			fill: #2d333b;
@@ -16,12 +16,12 @@
 		}
 	</style>
 
-	<g>
+	<g transform="translate(-32,-30)">
 		<polygon class="shield__left" points="125,30 125,30 125,30 31.9,63.2 46.1,186.3 125,230 125,230 125,230 203.9,186.3 218.1,63.2 	"/>
 		<polygon class="shield__right" points="125,30 125,52.2 125,52.1 125,153.4 125,153.4 125,230 125,230 203.9,186.3 218.1,63.2 125,30 	"/>
 	</g>
 
-	<g transform="translate(50,200) scale(0.125,-0.125)" stroke="none">
+	<g transform="translate(18,170) scale(0.125,-0.125)" stroke="none">
 		<path class="face" d="M301 858 c-40 -14 -101 -69 -101 -91 0 -9 9 -21 20 -27 15 -8 24 -6
 		38 8 55 55 123 67 202 36 46 -19 70 -13 70 16 0 45 -153 83 -229 58z"/>
 		<path class="face" d="M755 856 c-62 -19 -85 -35 -85 -57 0 -28 24 -34 70 -15 79 31 147 19
