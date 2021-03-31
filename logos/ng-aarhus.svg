@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 325.26 337.85">
+  <defs>
+    <clipPath id="3842a47c-272c-445d-8ce5-1279acc38aae">
+      <path d="M216.37,15.54H108.8C57,19.62,19.21,29.42,13.83,41.15v27.1l6.68-1.5c5.72-1.29,14.61-2.47,26-3.5,27.39-2.49,69.22-4.08,116.11-4.08s88.72,1.59,116.11,4.08c11.35,1,20.24,2.21,26,3.5l6.68,1.5V41.15C306,29.42,268.12,19.62,216.37,15.54Z" style="fill: none"/>
+    </clipPath>
+    <linearGradient id="8ffea28e-51bf-4a45-8ae0-20822444f7d1" x1="13.17" y1="68.67" x2="312" y2="68.67" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#666"/>
+      <stop offset="0.71" stop-color="#333"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="7c78a261-312f-42e4-b8e5-e15b7cc3810e" x1="13.17" y1="30.25" y2="30.25" xlink:href="#8ffea28e-51bf-4a45-8ae0-20822444f7d1"/>
+    <linearGradient id="fbed1e6d-10c1-4725-b88d-15bc873ffb73" x1="13.17" y1="70.16" x2="312" y2="70.16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#262626"/>
+      <stop offset="0.71" stop-color="#333"/>
+      <stop offset="1" stop-color="#1a1a1a"/>
+    </linearGradient>
+    <clipPath id="3ba64d1d-e8eb-450e-a974-f96cd3829a84">
+      <path d="M276.9,74.1c3.47-.46,5.33-1,5.33-1.47,0-2.74-53.57-5-119.64-5s-119.64,2.22-119.64,5c0,.51,1.87,1,5.33,1.47l-7,2.48c-10.9-1.11-19-2.38-23.68-3.75v249.7H307.25V72.92c-4.7,1.34-12.72,2.58-23.39,3.66Z" style="fill: none"/>
+    </clipPath>
+    <clipPath id="14994b2b-cf84-4225-89a2-a138867da558">
+      <path d="M162.58,67.67c-44.76,0-83.76,1-104.28,2.53L28,81,48.5,259,162.58,322.2,276.67,259,297.2,81,266.87,70.19C246.35,68.69,207.34,67.67,162.58,67.67Z" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <title>Artboard 1</title>
+  <g style="isolation: isolate">
+    <g id="b872decb-1e78-4480-8cf6-6d4d67136185" data-name="Regnbue">
+      <g style="clip-path: url(#3842a47c-272c-445d-8ce5-1279acc38aae)">
+        <g>
+          <rect x="13.83" y="15.54" width="17.75" height="52.71" style="fill: #19a264"/>
+          <rect x="293.58" y="15.54" width="17.75" height="52.71" style="fill: #881351"/>
+          <rect x="31.58" y="15.54" width="23.25" height="51.21" style="fill: #34a936"/>
+          <rect x="270.33" y="15.54" width="23.25" height="51.21" style="fill: #901a13"/>
+          <rect x="54.84" y="15.54" width="30.75" height="51.21" style="fill: #6db52c"/>
+          <rect x="239.58" y="15.54" width="30.75" height="51.21" style="fill: #a33e17"/>
+          <rect x="85.59" y="15.54" width="36.5" height="51.21" style="fill: #bdbb08"/>
+          <rect x="203.08" y="15.54" width="36.5" height="51.21" style="fill: #b86716"/>
+          <rect x="122.08" y="15.54" width="40.5" height="51.21" style="fill: #e2d210"/>
+          <rect x="162.58" y="15.54" width="40.5" height="51.21" style="fill: #d8990e"/>
+        </g>
+      </g>
+    </g>
+    <g id="1f8606b6-2ba9-4975-b874-3752f2cf4dfd" data-name="Skygge indvendig">
+      <path d="M162.58,16.63C80.43,16.63,13.83,30,13.83,46.39s66.6,29.76,148.75,29.76S311.33,62.83,311.33,46.39,244.73,16.63,162.58,16.63Zm0,56c-64.72,0-117.19-8.87-117.19-19.81S97.86,33,162.58,33s117.19,8.87,117.19,19.81S227.31,72.63,162.58,72.63Z" style="fill: #1d1d1b;opacity: 0.25;mix-blend-mode: multiply"/>
+    </g>
+    <g id="12042c97-475e-4179-80f1-f618fdbfe868" data-name="Buer">
+      <path d="M312,68.67c0-6.9-66.9-12.5-149.42-12.5S13.17,61.76,13.17,68.67v1.49h1.06c8.82,6.2,71.87,11,148.35,11,76.83,0,140.11-4.85,148.47-11.09l.95.08Z" style="fill: url(#8ffea28e-51bf-4a45-8ae0-20822444f7d1)"/>
+      <ellipse cx="162.58" cy="70.16" rx="149.42" ry="10.99" style="fill: #c31532"/>
+      <path d="M13.83,46.39c0-16.44,66.6-29.76,148.75-29.76S311.33,30,311.33,46.39a6.09,6.09,0,0,1,0,.61,6.91,6.91,0,0,0,.71-3c0-16.86-66.9-30.53-149.42-30.53S13.17,27.17,13.17,44a6.91,6.91,0,0,0,.71,3A6.09,6.09,0,0,1,13.83,46.39Z" style="fill: url(#7c78a261-312f-42e4-b8e5-e15b7cc3810e)"/>
+      <ellipse cx="162.58" cy="70.16" rx="149.42" ry="10.99" style="mix-blend-mode: multiply;fill: url(#fbed1e6d-10c1-4725-b88d-15bc873ffb73)"/>
+      <ellipse cx="162.58" cy="72.63" rx="119.64" ry="4.96" style="fill: #1d1d1b"/>
+    </g>
+    <g id="fe0a40ea-c269-46d8-ac16-7ef64c669c67" data-name="Angular">
+      <g style="clip-path: url(#3ba64d1d-e8eb-450e-a974-f96cd3829a84)">
+        <g>
+          <polygon points="162.58 33.33 162.58 33.33 162.58 33.33 27.96 81.34 48.49 259.34 162.58 322.53 162.58 322.53 162.58 322.53 276.67 259.34 297.2 81.34 162.58 33.33" style="fill: #dd0932"/>
+          <polygon points="162.58 33.33 162.58 65.43 162.58 65.29 162.58 211.77 162.58 211.77 162.58 322.53 162.58 322.53 276.67 259.34 297.2 81.34 162.58 33.33" style="fill: #c31532"/>
+          <path d="M162.58,65.29,78.43,254H109.8l16.92-42.22h71.43L215.07,254h31.38L162.58,65.29Zm24.58,120.45H138l24.58-59.14Z" style="fill: #fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
