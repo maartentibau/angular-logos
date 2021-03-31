@@ -143,6 +143,12 @@
       "license": "MIT",
       "website": "https://www.meetup.com/Angular-Birmingham/"
     },
+    "ng-aarhus.svg": {
+      "creator": "Lars Silkjaer",
+      "description": "Logo of The Aarhus Angular Meetup ngAarhus",
+      "license": "MIT",
+      "name": "ngAarhus"
+    },
     "ng-morocco.svg": {
       "creator": "Ouadie Lahdioui",
       "description": "Logo of The Moroccan Angular Developer Community",
