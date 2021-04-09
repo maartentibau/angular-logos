@@ -168,6 +168,13 @@
       "license": "MIT",
       "website": "https://ngx2-bulma.netlify.app"
     },
+    "ngx-deploy-ftp.svg": {
+      "name": "ngx-deploy-ftp",
+      "creator": "bohoffi",
+      "description": "Logo of the ngx-deploy-ftp open-source package",
+      "license": "Apache 2.0",
+      "website": "https://github.com/bohoffi/ngx-deploy-ftp"
+    },
     "ng-arab.svg": {
       "creator": "Omar Hasan",
       "description": "Ng Arab Community Logo",
