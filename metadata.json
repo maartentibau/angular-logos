@@ -175,6 +175,13 @@
       "license": "Apache 2.0",
       "website": "https://github.com/bohoffi/ngx-deploy-ftp"
     },
+    "ngx-localstorage.svg": {
+      "name": "ngx-localstorage",
+      "creator": "bohoffi",
+      "description": "Logo of ngx-localstorage – an Angular wrapper for localstorage/sessionstorage access",
+      "license": "Apache 2.0",
+      "website": "https://github.com/bohoffi/ngx-localstorage"
+    },
     "ng-arab.svg": {
       "creator": "Omar Hasan",
       "description": "Ng Arab Community Logo",
