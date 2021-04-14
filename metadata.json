@@ -247,6 +247,24 @@
       "description": "Spectacular Angular integration testing. Test harnesses for Angular applications and libraries.",
       "license": "MIT",
       "website": "https://github.com/ngworker/ngworker/tree/main/packages/spectacular#readme"
+    },
+    "angular-bolivia.svg": {
+      "name": "Angular Bolivia",
+      "description": "Angular Bolivia Community Logo",
+      "license": "MIT",
+      "website": "https://www.facebook.com/angular.bolivia"
+    },
+    "ng-bolivia-2018.svg": {
+      "name": "NG Bolivia 2018",
+      "description": "Angular Bolivia 2018 conference logo",
+      "license": "MIT",
+      "website": "https://2018.ng-bolivia.org/"
+    },
+    "ng-bolivia-2019.svg": {
+      "name": "NG Bolivia 2019",
+      "description": "Angular Bolivia 2019 conference logo",
+      "license": "MIT",
+      "website": "https://ng-bolivia.org/"
     }
   }
 }
