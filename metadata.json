@@ -265,6 +265,11 @@
       "description": "Angular Bolivia 2019 conference logo",
       "license": "MIT",
       "website": "https://ng-bolivia.org/"
+    },
+    "angular-jest.svg": {
+      "name": "Angular + Jest",
+      "description": "Logo combination of Angular and Jest",
+      "license": "MIT"
     }
   }
 }
