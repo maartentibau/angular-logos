@@ -270,6 +270,27 @@
       "name": "Angular + Jest",
       "description": "Logo combination of Angular and Jest",
       "license": "MIT"
+    },
+    "ngx-scrollreveal.svg": {
+      "creator": "Tine Kondo",
+      "name": "ngx-scrollreveal",
+      "description": "Logo of ngx-scrollreveal - Angular directives for ScrollReveal",
+      "license": "MIT",
+      "website": "https://tinesoft.github.io/ngx-scrollreveal"
+    },
+    "ngx-uptodate.svg": {
+      "creator": "Tine Kondo",
+      "name": "ngx-uptodate",
+      "description": "Logo of ngx-uptodate - A Github Action that keeps your Angular CLI-based projects up-to-date via automated pull requests",
+      "license": "MIT",
+      "website": "https://github.com/marketplace/actions/ngx-uptodate"
+    },
+    "ngx-cookieconsent.svg": {
+      "creator": "Tine Kondo",
+      "name": "ngx-cookieconsent",
+      "description": "Logo of ngx-cookieconsent - Cookie Consent module for Angular",
+      "license": "MIT",
+      "website": "https://tinesoft.github.io/ngx-cookieconsent"
     }
   }
 }
