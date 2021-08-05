@@ -291,6 +291,13 @@
       "description": "Logo of ngx-cookieconsent - Cookie Consent module for Angular",
       "license": "MIT",
       "website": "https://tinesoft.github.io/ngx-cookieconsent"
+    },
+    "angular-auth-oidc-client-logo.svg": {
+      "creator": "Fabian Gosebrink & Damien Bowden",
+      "name": "angular-auth-oidc-client",
+      "description": "Angular Security Lib for OpenID Connect & OAuth2",
+      "license": "MIT",
+      "website": "https://github.com/damienbod/angular-auth-oidc-client"
     }
   }
 }
