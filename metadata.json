@@ -298,6 +298,12 @@
       "description": "Angular Security Lib for OpenID Connect & OAuth2",
       "license": "MIT",
       "website": "https://github.com/damienbod/angular-auth-oidc-client"
+    },
+    "angular-africa.svg": {
+      "creator": "Valentine Awe",
+      "name": "angular-africa",
+      "description": "This is the official logo of the Angular Africa community",
+      "license": "MIT"
     }
   }
 }
