@@ -299,10 +299,15 @@
       "license": "MIT",
       "website": "https://github.com/damienbod/angular-auth-oidc-client"
     },
+    "angular-love.svg": {
+      "description": "Logo of the Angular Love blog",
+      "name": "Angular Love",
+      "website": "https://www.angular.love/"
+    },
     "angular-africa.svg": {
       "creator": "Valentine Awe",
+      "description": "Logo of Angular Africa",
       "name": "Angular Africa",
-      "description": "Official logo of the Angular Africa community",
       "license": "MIT"
     }
   }
