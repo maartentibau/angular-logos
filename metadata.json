@@ -303,6 +303,12 @@
       "description": "Logo of the Angular Love blog",
       "name": "Angular Love",
       "website": "https://www.angular.love/"
+    },
+    "angular-africa.svg": {
+      "creator": "Valentine Awe",
+      "description": "Logo of Angular Africa",
+      "name": "Angular Africa",
+      "license": "MIT"
     }
   }
 }
