@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px"
+  y="0px" xml:space="preserve" viewBox="31.9 30 186.2 200">
+  <style type="text/css">
+    .st0 {
+      fill: #DD0031;
+    }
+
+    .st1 {
+      fill: #C3002F;
+    }
+
+    .st2 {
+      fill: #FFFFFF;
+    }
+  </style>
+  <g>
+    <polygon class="st0"
+      points="125,30 125,30 125,30 31.9,63.2 46.1,186.3 125,230 125,230 125,230 203.9,186.3 218.1,63.2"></polygon>
+    <polygon class="st1"
+      points="125,30 125,52.200001 125,52.099998 125,153.399994 125,153.399994 125,230 125,230 203.899994,186.300003 218.100006,63.200001 125,30 ">
+    </polygon>
+  </g>
+  <g> <text stroke="none" style="outline-style:none;" id="text1" stroke-width="1px" x="143.270966px"
+      text-rendering="geometricPrecision" font-family="AcademyEngravedLetPlain" fill="#ffffff" font-size="32px"
+      y="107.397499px" transform="" text-anchor="middle">orem</text> <text stroke="none" style="outline-style:none;"
+      id="text2" stroke-width="1px" x="142.379684px" text-rendering="geometricPrecision" font-family="MS Serif"
+      y="138.146133px" fill="ivory" font-size="36px" transform="" text-anchor="middle">ipsum</text> <text stroke="none"
+      style="outline-style:none;" id="text3" stroke-width="1px" x="96.4795px" text-rendering="geometricPrecision"
+      font-family="AcademyEngravedLetPlain" y="163.992889px" fill="#ffffff" font-size="112px" transform=""
+      text-anchor="middle">L</text></g>
+  <path stroke="ivory" stroke-width="3px" d="M193 115, L193 140">
+    <animate attributeType="XML" attributeName="stroke" values="#C3002F;#C3002F;ivory;ivory;ivory;#C3002F;#C3002F"
+      dur="1s" repeatCount="indefinite"></animate>
+  </path>
+</svg>
