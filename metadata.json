@@ -175,6 +175,13 @@
       "license": "Apache 2.0",
       "website": "https://github.com/bohoffi/ngx-deploy-ftp"
     },
+    "ngx-lipsum.svg": {
+      "name": "ngx-lipsum",
+      "creator": "d-koppenhagen",
+      "description": "Use lorem-ipsum dummy texts in your angular app as directive, component or by requesting a service",
+      "license": "MIT",
+      "website": "https://github.com/d-koppenhagen/ngx-lipsum"
+    },
     "ngx-localstorage.svg": {
       "name": "ngx-localstorage",
       "creator": "bohoffi",
