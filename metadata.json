@@ -310,6 +310,13 @@
       "description": "Logo of the Angular Love blog",
       "name": "Angular Love",
       "website": "https://www.angular.love/"
+    },
+    "angular-three-logo.svg": {
+      "creator": "Chau Tran",
+      "description": "Logo of Angular Three component library",
+      "name": "Angular Three",
+      "website": "https://github.com/nartc/angular-three",
+      "license": "MIT"
     }
   }
 }
