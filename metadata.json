@@ -317,6 +317,13 @@
       "name": "Angular Three",
       "website": "https://github.com/nartc/angular-three",
       "license": "MIT"
+    },
+    "angular-challenge.svg": {
+      "creator": "Thomas Laforge",
+      "description": "Logo of Angular challenges library",
+      "name": "Angular Challenges",
+      "website": "https://github.com/tomalaforge/angular-challenges",
+      "license": "MIT"
     }
   }
 }
