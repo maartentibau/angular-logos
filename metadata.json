@@ -175,6 +175,13 @@
       "license": "Apache 2.0",
       "website": "https://github.com/bohoffi/ngx-deploy-ftp"
     },
+    "ngx-doc-gen.svg": {
+      "name": "ngx-doc-gen",
+      "creator": "bohoffi",
+      "description": "Logo of ngx-doc-gen - Angular library documentation generator utilizing dgeni",
+      "license": "Apache 2.0",
+      "website": "https://github.com/bohoffi/ngx-doc-gen"
+    },
     "ngx-lipsum.svg": {
       "name": "ngx-lipsum",
       "creator": "d-koppenhagen",
