@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px"
+  y="0px" viewBox="0 0 186 200" style="enable-background:new 0 0 186 200;" xml:space="preserve">
+  <style type="text/css">
+    .shield-left {
+      fill: #DD0031;
+    }
+
+    .shield-right {
+      fill: #C3002F;
+    }
+
+    .sheets-1 {
+      fill: #FFFFFF;
+    }
+
+    .sheets-2 {
+      fill: #E3E6E8;
+    }
+
+    .sheets-3 {
+      fill: #A2ADB2;
+    }
+  </style>
+  <g transform="translate(-32,-30)">
+    <polygon class="shield-left"
+      points="125,30 125,30 125,30 31.9,63.2 46.1,186.3 125,230 125,230 125,230 203.9,186.3 218.1,63.2  " />
+    <polygon class="shield-right"
+      points="125,30 125,52.2 125,52.1 125,153.4 125,153.4 125,230 125,230 203.9,186.3 218.1,63.2 125,30  " />
+  </g>
+
+  <svg class="sheets">
+    <g transform="translate(-7)">
+      <rect class="sheets-3" x="80" y="70" width="60" height="80" />
+
+      <rect class="sheets-2" x="70" y="60" width="60" height="80" />
+
+      <rect class="sheets-1" x="60" y="50" width="60" height="80" />
+    </g>
+  </svg>
+
+  <style xmlns="" class="darkreader darkreader--fallback">
+    html,
+    body,
+    body :not(iframe) {
+      background-color: #181a1b !important;
+      border-color: #776e62 !important;
+      color: #e8e6e3 !important;
+    }
+  </style>
+</svg>
