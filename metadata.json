@@ -280,6 +280,13 @@
       "license": "MIT",
       "website": "https://ng-bolivia.org/"
     },
+    "ng-beer-brno.svg": {
+      "name": "ngBeer Brno",
+      "description": "The ngBeer logo is used by ngBeer Brno meetup in Czech republic.",
+      "creator": "Created as part of meetup collaboration between ngBeer Brno and Bratislava Angular.",
+      "license": "MIT",
+      "website": "https://flowup.cz/ng-beer"
+    },
     "angular-jest.svg": {
       "name": "Angular + Jest",
       "description": "Logo combination of Angular and Jest",
