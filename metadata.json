@@ -338,6 +338,11 @@
       "name": "Angular Challenges",
       "website": "https://github.com/tomalaforge/angular-challenges",
       "license": "MIT"
+    },
+    "angular-devs-france.svg": {
+      "description": "Logo of Angular Devs France community",
+      "name": "Angular Devs France",
+      "website": "https://angulardevs.fr/"
     }
   }
 }
