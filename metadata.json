@@ -343,6 +343,12 @@
       "description": "Logo of Angular Devs France community",
       "name": "Angular Devs France",
       "website": "https://angulardevs.fr/"
+    },
+    "ngx-signal-state.svg": {
+      "creator": "Brecht Billiet",
+      "description": "An opinionated Microsized Simple State management for Angular Signals",
+      "name": "ngx-signal-state",
+      "website": "https://github.com/simplifiedcourses/ngx-signal-state#readme"
     }
   }
 }

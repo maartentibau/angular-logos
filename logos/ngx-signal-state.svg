@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 250 250" xml:space="preserve" style="enable-background: new 0 0 250 250;">
+<style type="text/css"> .shield-maker-primary { fill: #016767 !important; } .shield-maker-secondary { fill: #015b5b !important; }</style>
+<g>
+    <polygon points="125,30 125,30 125,30 31.9,63.2 46.1,186.3 125,230 125,230 125,230 203.9,186.3 218.1,63.2" class="shield-maker-primary"/>
+    <polygon points="125,30 125,52.2 125,52.1 125,153.4 125,153.4 125,230 125,230 203.9,186.3 218.1,63.2 125,30" class="shield-maker-secondary"/>    
+    <rect x="89" y="125" width="12" height="40" rx="6"  style="stroke-width: 0; fill:#ffffff;" />
+    <rect x="107" y="115" width="12" height="50" rx="6"  style="stroke-width: 0; fill:#ffffff;" />
+    <rect x="131" y="105" width="12" height="60" rx="6"  style="stroke-width: 0; fill:#ffffff;" />
+    <rect x="149" y="95" width="12" height="70" rx="6"  style="stroke-width: 0; fill:#ffffff;" />
+</g>
+</svg>
