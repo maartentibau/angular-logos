@@ -1,6 +1,12 @@
 {
   "$schema": "https://angularlogos.com/assets/metadata-schema.json",
   "logos": {
+    "angular-academy.svg": {
+      "creator": "Laurent Duveau",
+      "description": "World-class instructor-led live online Angular courses!",
+      "name": "Angular Academy",
+      "website": "https://www.angularacademy.ca"
+    },
     "angular-after-dark.svg": {
       "creator": "Lars Gyrup Brink Nielsen",
       "name": "Angular After Dark",
