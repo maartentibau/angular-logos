@@ -227,6 +227,12 @@
       "description": "Logo of the Angular Belgrade group",
       "license": "MIT"
     },
+    "angular-berlin.svg": {
+      "creator": "Niklas Lankenau",
+      "name": "Angular Berlin",
+      "description": "Logo of the Angular Berlin Meetup",
+      "website": "https://www.meetup.com/de-DE/angular-meetup-berlin/"
+    },
     "angular-vietnam.svg": {
       "creator": "Angular Vietnam Team",
       "name": "Angular Vietnam",
