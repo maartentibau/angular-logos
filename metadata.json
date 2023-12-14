@@ -361,6 +361,12 @@
       "description": "An opinionated Microsized Simple State management for Angular Signals",
       "name": "ngx-signal-state",
       "website": "https://github.com/simplifiedcourses/ngx-signal-state#readme"
+    },
+    "angular-experts.svg": {
+      "creator": "Tomas Trajan",
+      "description": "Logo of Angular Experts",
+      "name": "Angular Experts",
+      "website": "https://angularexperts.io"
     }
   }
 }
