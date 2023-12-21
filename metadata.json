@@ -367,6 +367,12 @@
       "description": "Logo of Angular Experts",
       "name": "Angular Experts",
       "website": "https://angularexperts.io"
+    },
+    "angular-testing-library.svg": {
+      "creator": "Robin Goetz",
+      "description": "Logo of Angular Testing Library",
+      "name": "Angular Testing Library",
+      "website": "https://testing-library.com/angular"
     }
   }
 }
