@@ -1,19 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px"
     y="0px" viewBox="0 0 186 200" style="enable-background:new 0 0 186 200;" xml:space="preserve">
     <style type="text/css">
-        .st0 {
-            fill: #DD0031;
-        }
-
-        .st1 {
-            fill: #C3002F;
-        }
-
         .st2 {
             fill: #FFFFFF;
         }
     </style>
-    <g transform="translate(-32,-30)">
+    <defs>
+        <linearGradient id="gradient" x1="49.009" x2="225.829" y1="213.75" y2="129.722" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#E40035"></stop>
+            <stop offset=".24" stop-color="#F60A48"></stop>
+            <stop offset=".352" stop-color="#F20755"></stop>
+            <stop offset=".494" stop-color="#DC087D"></stop>
+            <stop offset=".745" stop-color="#9717E7"></stop>
+            <stop offset="1" stop-color="#6C00F5"></stop>
+        </linearGradient>
+    </defs>
+    <g transform="translate(-32,-30)" fill="url(#gradient)">
         <polygon class="st0"
             points="125,30 125,30 125,30 31.9,63.2 46.1,186.3 125,230 125,230 125,230 203.9,186.3 218.1,63.2 	" />
         <polygon class="st1"
