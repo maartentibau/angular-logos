@@ -161,6 +161,12 @@
       "license": "MIT",
       "name": "ngAarhus"
     },
+    "ng-lightning": {
+      "name": "ng-lightning",
+      "license": "MIT",
+      "creator": "Tasos Bekos",
+      "website": "https://ng-lightning.github.io/ng-lightning/#/"
+    },
     "ng-morocco.svg": {
       "creator": "Ouadie Lahdioui",
       "description": "Logo of The Moroccan Angular Developer Community",
