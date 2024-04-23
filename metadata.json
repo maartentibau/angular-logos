@@ -96,6 +96,12 @@
       "license": "CC BY 4.0",
       "name": "Angular Material"
     },
+    "angular-prerender.svg": {
+      "creator": "Christoph Guttandin",
+      "license": "MIT",
+      "name": "Angular Prerender",
+      "website": "https://github.com/chrisguttandin/angular-prerender"
+    },
     "angular-protractor.svg": {
       "creator": "Google",
       "license": "CC BY 4.0",
