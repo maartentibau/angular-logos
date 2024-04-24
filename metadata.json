@@ -49,6 +49,12 @@
       "license": "CC BY 4.0",
       "name": "Angular Dart"
     },
+    "angular-formly.svg": {
+      "creator": "Abdellatif Ait boudad",
+      "license": "MIT",
+      "name": "Angular Formly",
+      "website": "https://formly.dev/"
+    },
     "angular-forms.svg": {
       "creator": "Google",
       "license": "CC BY 4.0",
