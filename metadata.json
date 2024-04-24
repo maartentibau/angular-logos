@@ -193,6 +193,12 @@
       "license": "Apache 2.0",
       "website": "https://github.com/bohoffi/ngx-deploy-ftp"
     },
+    "ngx-disqus": {
+      "name": "ngx-disqus",
+      "creator": "Murhaf Sousli",
+      "license": "MIT",
+      "website": "https://murhafsousli.github.io/ngx-disqus/"
+    },
     "ngx-doc-gen.svg": {
       "name": "ngx-doc-gen",
       "creator": "bohoffi",
