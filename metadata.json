@@ -49,6 +49,12 @@
       "license": "CC BY 4.0",
       "name": "Angular Dart"
     },
+    "angular-electron.svg": {
+      "creator": "Maxime Gris",
+      "license": "MIT",
+      "name": "Angular Electron",
+      "website": "https://www.maximegris.fr/angular-electron/"
+    },
     "angular-formly.svg": {
       "creator": "Abdellatif Ait boudad",
       "license": "MIT",
