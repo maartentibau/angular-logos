@@ -173,6 +173,12 @@
       "license": "MIT",
       "name": "ngAarhus"
     },
+    "ng-bootstrap.svg": {
+      "creator": "Max Okorokov",
+      "license": "MIT",
+      "website": "https://ng-bootstrap.github.io/#/home",
+      "name": "ng-bootstrap"
+    },
     "ng-lightning": {
       "name": "ng-lightning",
       "license": "MIT",
