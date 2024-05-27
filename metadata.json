@@ -197,6 +197,12 @@
       "license": "MIT",
       "name": "Angular Kenya"
     },
+    "ngx-bar-rating.svg": {
+      "name": "ngx-bar-rating",
+      "creator": "Murhaf Sousli",
+      "license": "MIT",
+      "website": "https://ngx-bar-rating.netlify.app"
+    },
     "ngx-bulma": {
       "name": "ngx-bulma",
       "creator": "ngx-builders",
