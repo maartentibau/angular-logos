@@ -179,7 +179,7 @@
       "website": "https://ng-bootstrap.github.io/#/home",
       "name": "ng-bootstrap"
     },
-    "ng-lightning": {
+    "ng-lightning.svg": {
       "name": "ng-lightning",
       "license": "MIT",
       "creator": "Tasos Bekos",
@@ -197,7 +197,7 @@
       "license": "MIT",
       "name": "Angular Kenya"
     },
-    "ngx-bulma": {
+    "ngx-bulma.svg": {
       "name": "ngx-bulma",
       "creator": "ngx-builders",
       "description": "Logo of ngx-bulma – the Angular Library with Bulma CSS",
