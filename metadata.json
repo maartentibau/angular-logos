@@ -179,6 +179,12 @@
       "website": "https://ng-bootstrap.github.io/#/home",
       "name": "ng-bootstrap"
     },
+    "ng-doc.svg": {
+      "name": "ng-doc",
+      "license": "MIT",
+      "creator": "Alex Skoropad",
+      "website": "https://ng-doc.com"
+    },
     "ng-lightning": {
       "name": "ng-lightning",
       "license": "MIT",
