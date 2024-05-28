@@ -179,7 +179,13 @@
       "website": "https://ng-bootstrap.github.io/#/home",
       "name": "ng-bootstrap"
     },
-    "ng-lightning.svg": {
+    "ng-doc.svg": {
+      "name": "ng-doc",
+      "license": "MIT",
+      "creator": "Alex Skoropad",
+      "website": "https://ng-doc.com"
+    },
+    "ng-lightning": {
       "name": "ng-lightning",
       "license": "MIT",
       "creator": "Tasos Bekos",
@@ -197,7 +203,13 @@
       "license": "MIT",
       "name": "Angular Kenya"
     },
-    "ngx-bulma.svg": {
+    "ngx-bar-rating.svg": {
+      "name": "ngx-bar-rating",
+      "creator": "Murhaf Sousli",
+      "license": "MIT",
+      "website": "https://ngx-bar-rating.netlify.app"
+    },
+    "ngx-bulma": {
       "name": "ngx-bulma",
       "creator": "ngx-builders",
       "description": "Logo of ngx-bulma – the Angular Library with Bulma CSS",
