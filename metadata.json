@@ -250,6 +250,13 @@
       "license": "Apache 2.0",
       "website": "https://github.com/bohoffi/ngx-localstorage"
     },
+    "ngxtension.svg": {
+      "name": "ngxtension",
+      "creator": "Chau Tran",
+      "license": "MIT",
+      "description": "Utilities for Angular",
+      "website": "https://ngxtension.netlify.app"
+    },
     "ng-arab.svg": {
       "creator": "Omar Hasan",
       "description": "Ng Arab Community Logo",
