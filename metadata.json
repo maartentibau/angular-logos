@@ -185,7 +185,7 @@
       "creator": "Alex Skoropad",
       "website": "https://ng-doc.com"
     },
-    "ng-lightning": {
+    "ng-lightning.svg": {
       "name": "ng-lightning",
       "license": "MIT",
       "creator": "Tasos Bekos",
@@ -209,7 +209,7 @@
       "license": "MIT",
       "website": "https://ngx-bar-rating.netlify.app"
     },
-    "ngx-bulma": {
+    "ngx-bulma.svg": {
       "name": "ngx-bulma",
       "creator": "ngx-builders",
       "description": "Logo of ngx-bulma – the Angular Library with Bulma CSS",
