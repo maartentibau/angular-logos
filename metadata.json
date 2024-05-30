@@ -167,11 +167,11 @@
       "license": "MIT",
       "website": "https://www.meetup.com/Angular-Birmingham/"
     },
-    "fluent-form.svg":{
+    "fluent-form.svg": {
       "name": "fluent-form",
       "creator": "HyperLife1119",
       "license": "MIT",
-      "description": "Building dynamic form in Angular with Fluent API and JSON.",
+      "description": "Building dynamic form in Angular with Fluent API and JSON",
       "website": "https://fluent-form.github.io/fluent-form/introduction"
     },
     "ng-aarhus.svg": {
